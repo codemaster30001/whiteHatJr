@@ -1,0 +1,254 @@
+.MathCodingHeader_mathCodingHeaderContainer__3-7sB {
+  position: relative;
+  width: 100%;
+  background: #FFFFFF;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  height: 70px;
+  overflow: hidden; }
+
+.MathCodingHeader_helpdeskMobile__P0HUI {
+  height: 50px;
+  color: #636363;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; }
+
+.MathCodingHeader_logoWrapper__2xWlw {
+  width: 100%;
+  max-width: 155px; }
+  .MathCodingHeader_logoWrapper__2xWlw img {
+    object-fit: contain; }
+
+.MathCodingHeader_courseSelectionModuleMath__dnMSY {
+  background: #f6f0fb;
+  border: 1px solid #FFFFFF;
+  border-radius: 8px; }
+
+.MathCodingHeader_courseSelectionModuleCoding__2Nn54 {
+  background: rgba(255, 141, 26, 0.1);
+  border: 1px solid #FFFFFF;
+  border-radius: 8px; }
+
+.MathCodingHeader_courseSelectionModuleMusic__Oj1kf {
+  background: #DDE8FD;
+  border: 1px solid #FFFFFF;
+  border-radius: 8px; }
+
+.MathCodingHeader_enrolledBg__3_SjX {
+  background: #FFFFFF;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14); }
+
+.MathCodingHeader_z1201__1JcB9 {
+  z-index: 1201; }
+
+.styles_btnClass__1Xfdy {
+  padding: 6px; }
+
+.HelpDeskNumber_supportNumberContainer__3_baq {
+  border: 1px solid #636363;
+  border-radius: 8px;
+  padding: 12px; }
+
+.style_container__NSQkm {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 0.9em; }
+
+.style_iconContainer__LSH3C {
+  flex-basis: 3em;
+  position: relative; }
+
+.style_thumbnail__1a8Zr {
+  border-radius: 50%;
+  height: 3em;
+  width: 3em;
+  object-fit: cover; }
+
+.style_hint__1pOqU {
+  position: absolute;
+  width: 1.2em;
+  height: 1.2em;
+  bottom: -5%;
+  right: -10%; }
+
+.style_infoContainer__3jqX6 {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0 20px; }
+
+.style_text__2HwKA {
+  font-family: Muli-Bold; }
+
+.style_time__2UH7b {
+  font-family: Muli-Regular;
+  font-size: 0.9em; }
+
+.style_status__1KikP {
+  visibility: hidden;
+  height: 10px;
+  width: 10px;
+  background-color: #ff6400;
+  border-radius: 50%; }
+
+.style_unread__3qoRj {
+  visibility: visible; }
+
+.style_container__1wOQ9 {
+  display: flex;
+  flex-direction: column; }
+
+.style_notification__3-tMN {
+  padding: 10px 10px;
+  border-bottom: 1px solid rgba(228, 228, 228, 0.3); }
+  .style_notification__3-tMN:hover {
+    background: #ffefe5; }
+
+.style_cursorPointer__xCZq- {
+  cursor: pointer; }
+
+.style_container__1wUL- {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  .style_container__1wUL- img {
+    cursor: pointer; }
+
+.style_paperAnchorRight__2uJQf {
+  width: 350px;
+  max-width: 85%; }
+  @media only screen and (min-width: 576px) {
+    .style_paperAnchorRight__2uJQf {
+      width: 400px; } }
+
+.style_title__2KXtK {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px; }
+
+.style_bellContainer__3ONKj {
+  background: #FFFFFF;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.07);
+  border-radius: 50%;
+  padding: 8px;
+  margin: 0 10px; }
+
+.style_bellImage__Mkrfy {
+  width: 35px;
+  height: 35px; }
+
+.style_notificationCount__oSVjF {
+  position: absolute;
+  top: 0;
+  right: -10px;
+  background: #FC5A5A;
+  border-radius: 50%;
+  color: #fff;
+  height: 20px;
+  width: 20px; }
+
+@media screen and (max-width: 576px) {
+  .style_bellImage__Mkrfy {
+    width: 25px;
+    height: 25px; } }
+
+.MobileView_moduleContainer__zN6VQ {
+  background: #FFFFFF;
+  padding: 10px 0;
+  border-top: 1px solid #E2E2EA; }
+
+.MobileView_moduleContainerCoding__1h9S6 {
+  background: rgba(255, 141, 26, 0.1);
+  padding: 8px 0;
+  border-top: 1px solid #E2E2EA;
+  border-radius: 8px; }
+
+.MobileView_moduleContainerMath__2YqlF {
+  background: #f6f0fb;
+  padding: 8px 0;
+  border-top: 1px solid #E2E2EA;
+  border-radius: 8px; }
+
+.MobileView_moduleContainerMusic__Bx0Wc {
+  background: #DDE8FD;
+  padding: 8px 0;
+  border-top: 1px solid #E2E2EA;
+  border-radius: 8px; }
+
+.MobileView_btnContainer__3dJIe {
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14); }
+
+.MobileView_btnClass__1jDNY {
+  padding: 10px 20px; }
+
+.style_parent__qJ2og {
+  background-color: #fffae9;
+  border-radius: 20px;
+  font-size: 16px;
+  line-height: 18px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: "Muli-Regular";
+  cursor: pointer; }
+  .style_parent__qJ2og .style_coinBalanceWrapper__3G7q3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 17px 16px  15px; }
+    @media screen and (max-width: 576px) {
+      .style_parent__qJ2og .style_coinBalanceWrapper__3G7q3 {
+        padding: 12px 17px 12px  15px; } }
+    .style_parent__qJ2og .style_coinBalanceWrapper__3G7q3 .style_coinIcon__3N-s3 {
+      width: 16px;
+      height: 16px;
+      margin-right: 4px;
+      align-self: flex-end; }
+    .style_parent__qJ2og .style_coinBalanceWrapper__3G7q3 .style_coinBalance__1wRvJ {
+      font-size: 0.875em;
+      line-height: 1em;
+      color: #000;
+      padding-right: 10px; }
+    .style_parent__qJ2og .style_coinBalanceWrapper__3G7q3 .style_pointsLandWalletText__CGZRB {
+      font-weight: bold;
+      color: #FF8D1A; }
+
+.style_pmpDescContainer__2DeXv {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #fff;
+  color: #FF8D1A;
+  padding: 12px;
+  flex-direction: column;
+  font-size: 16px;
+  font-family: "Muli-Regular";
+  line-height: 18px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px -2px #ff8d18; }
+  @media screen and (max-width: 576px) {
+    .style_pmpDescContainer__2DeXv {
+      font-size: 14px;
+      line-height: 16px; } }
+  .style_pmpDescContainer__2DeXv .style_heading__RjEhx {
+    font-weight: 800;
+    font-size: 1.125em; }
+  .style_pmpDescContainer__2DeXv .style_desc__1dcZP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.875em;
+    font-weight: 600;
+    padding: 6px 0 0 0px; }
+
+.style_image__3gdyG {
+  -webkit-filter: blur(20px);
+          filter: blur(20px); }
+
+
+/*# sourceMappingURL=147.93c38dbd.chunk.css.map*/

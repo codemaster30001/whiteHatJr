@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1502139214982-d0ad755818d8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyNzc0MjIwOQ&ixlib=rb-1.2.1&q=85");
+  color: #fafafa;
+}
+#album1 {
+  width: 600px;
+  border-style: solid;
+  border-color: white;
+  border: 10px;
+  border-radius: 200px;
+  padding: 5px;
+    
+}
+#p1 {
+  font-size: 80px;
+    font-family: 'Tangerine', cursive;
+}
+#p2 {
+  font-size: 50px;
+    font-family: 'Tangerine', cursive;
+}
+#reason1 {
+  font-size: 30px;
+    font-family: 'Tangerine', cursive;
+}
+#reason2 {
+  font-size: 30px;
+    font-family: 'Tangerine', cursive;
+}
+#reason3 {
+  font-size: 30px;
+    font-family: 'Tangerine', cursive;
+}
+#reason4 {
+  font-size: 30px;
+    font-family: 'Tangerine', cursive;
+}
+#reason5 {
+  font-size: 30px;
+    font-family: 'Tangerine', cursive;
+}
+#reason6 {
+  font-size: 30px;
+    font-family: 'Tangerine', cursive;
+}
+#Answer {
+  font-size: 20px;
+    font-family: 'Tangerine', cursive;
+}
+button {
+    font-family: 'Tangerine', cursive;
+    }

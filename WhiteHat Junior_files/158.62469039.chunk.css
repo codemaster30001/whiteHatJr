@@ -1,0 +1,183 @@
+.style_dialog__2RYdl {
+  font-size: 1rem; }
+
+.style_dialogPaper__3JJlx {
+  max-height: 90vh;
+  min-width: 415px;
+  max-width: 440px !important; }
+
+.SelectionDropdown_dropdown__3L-io {
+  background: #FFFFFF;
+  border: 1px solid #E7E7E7;
+  box-sizing: border-box;
+  border-radius: .5em;
+  padding: .875em .725em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #5A7184;
+  position: relative; }
+
+.SelectionDropdown_dropdownClicked__33Vcx {
+  box-shadow: inset 1px 1px 10px 0 rgba(0, 0, 0, 0.2), inset -6px -6px 10px 0 rgba(255, 255, 255, 0.5); }
+
+.SelectionDropdown_dropdownMenuBox__3KnDQ {
+  background: #FFFFFF;
+  box-shadow: 0 17px 39px #cecece;
+  border-radius: .5em;
+  padding: 1.125em 1.250em; }
+
+.SelectionDropdown_dropdownMenuItem__70TMo {
+  transition: 0.3s all ease-in-out;
+  border-radius: 4px;
+  padding: .25em .85em;
+  text-align: left; }
+  .SelectionDropdown_dropdownMenuItem__70TMo:hover {
+    background: #ebfafe;
+    transition: 0.3s all ease-in-out; }
+
+.SelectionDropdown_label__1csi0 {
+  position: absolute;
+  top: -10px;
+  background: #fff;
+  padding: 0 5px;
+  color: #191919; }
+
+.styles_actionWrapper__1zE_E {
+  display: grid;
+  grid-gap: 1.125rem;
+  gap: 1.125rem; }
+
+.styles_grid2__3k3-9 {
+  grid-template-columns: repeat(2, 48%); }
+
+.styles_btn__3KFuY, .styles_errorBtn__3cXMr {
+  text-align: center;
+  background: #5F75EE;
+  background: var(--cta-bg, #5F75EE);
+  border-radius: .625rem;
+  padding: 1rem;
+  border: none;
+  color: #fff;
+  color: var(--cta-color, #fff);
+  cursor: pointer; }
+  .styles_btn__3KFuY:disabled, .styles_errorBtn__3cXMr:disabled {
+    background: #e0e0e0;
+    color: #828282;
+    cursor: default; }
+
+.styles_errorBtn__3cXMr {
+  --cta-bg: #FFEFEF;
+  --cta-color: #FC5A5A; }
+
+.styles_text__k8OXs {
+  color: #5A7184;
+  color: var(--text-color, #5A7184); }
+
+.styles_primaryBlock__7O7Mv {
+  background: #fff;
+  border: 2px solid #dff3f9;
+  border-radius: 0.5em;
+  height: 225px;
+  width: 400px;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  position: relative;
+  margin-bottom: 10px;
+  overflow: hidden; }
+  .styles_primaryBlock__7O7Mv video {
+    width: 100%;
+    height: 100%;
+    border-radius: 0.5em;
+    max-height: 100%;
+    background: #000; }
+  .styles_primaryBlock__7O7Mv img {
+    max-width: 100%;
+    max-height: 100%; }
+
+.styles_audioBar__181oK {
+  position: absolute;
+  bottom: 5px;
+  left: 0; }
+
+.styles_playIconContainer__TK4Gd {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1; }
+
+.styles_errorBlock__1vkjm {
+  background: #FFEFEF;
+  color: #000;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.styles_msgText__1MNvp, .styles_infoMsg__1Tbvu, .styles_errorMsg__1YMjX {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 8px;
+  border-radius: 5px; }
+
+.styles_infoMsg__1Tbvu {
+  background: #F6EFFB;
+  color: #A461D8; }
+
+.styles_errorMsg__1YMjX {
+  background: #FFEFEF;
+  color: #FC5A5A; }
+
+.styles_actionWrapper__2UsYy {
+  display: grid;
+  grid-gap: 1.125rem;
+  gap: 1.125rem; }
+
+.styles_grid2__3Zmh6 {
+  grid-template-columns: repeat(2, 48%); }
+
+.styles_btn__1CqMZ, .styles_errorBtn__1wWTa {
+  text-align: center;
+  background: #5F75EE;
+  background: var(--cta-bg, #5F75EE);
+  border-radius: .625rem;
+  padding: 1.125rem;
+  border: none;
+  color: #fff;
+  color: var(--cta-color, #fff);
+  cursor: pointer; }
+  .styles_btn__1CqMZ:disabled, .styles_errorBtn__1wWTa:disabled {
+    background: #e0e0e0;
+    color: #828282;
+    cursor: default; }
+
+.styles_errorBtn__1wWTa {
+  --cta-bg: #FFEFEF;
+  --cta-color: #FC5A5A; }
+
+.styles_text__10tgY {
+  color: #5A7184;
+  color: var(--text-color, #5A7184); }
+
+.AudioVolumeDetector_pidsWrapper__2W-GU {
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse; }
+
+.AudioVolumeDetector_pid__3i4k5 {
+  width: 5px;
+  height: 10px;
+  margin: 3px 5px; }
+
+
+/*# sourceMappingURL=158.62469039.chunk.css.map*/

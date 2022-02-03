@@ -1,0 +1,72 @@
+.inclass-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: var(--inclass-topbar-bg);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+  color: var(--inclass-primary-font-color);
+  padding: 10px 24px; }
+  .inclass-header .classname-label {
+    font-family: "FuturaBold";
+    font-weight: bold;
+    font-size: 24px;
+    max-width: 20vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; }
+  .inclass-header .header-image {
+    margin: -10px 10px -10px 0; }
+  .inclass-header .back-to-dashboard-btn {
+    font-size: 18px; }
+    .inclass-header .back-to-dashboard-btn .back-icon {
+      -webkit-transform: translateX(0px);
+              transform: translateX(0px);
+      transition: -webkit-transform 0.16s ease-out;
+      transition: transform 0.16s ease-out;
+      transition: transform 0.16s ease-out, -webkit-transform 0.16s ease-out; }
+    .inclass-header .back-to-dashboard-btn:hover .back-icon {
+      -webkit-transform: translateX(-5px);
+              transform: translateX(-5px); }
+  .inclass-header .header-btn {
+    background: var(--inclass-topbar-bg);
+    border: none;
+    padding: 0; }
+    .inclass-header .header-btn .label {
+      text-align: left;
+      color: var(--inclass-primary-font-color); }
+    .inclass-header .header-btn .circularIcon {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: var(--inclass-header-icon-bg);
+      display: flex;
+      justify-content: center;
+      align-items: center; }
+      .inclass-header .header-btn .circularIcon .icon {
+        font-size: 20px !important;
+        color: var(--inclass-header-icon-color); }
+  .inclass-header .bg-light-violet {
+    background-color: #eff1fe;
+    color: #5f75ee;
+    border-radius: 10px;
+    padding: 7px 15px; }
+
+.bg-music {
+  background-image: url(https://code-assets-0.whjr.online/static/media/music-header-bg.61b964eb.svg);
+  text-decoration: none;
+  background-repeat: no-repeat;
+  color: white; }
+
+.bg-music-for-all {
+  text-decoration: none;
+  color: white; }
+
+.bg-math {
+  background-image: url(https://code-assets-0.whjr.online/static/media/math-header-bg.61331289.jpg);
+  background-position: 30% 0;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  color: #000000; }
+
+
+/*# sourceMappingURL=30.96aa0c84.chunk.css.map*/

@@ -1,0 +1,27 @@
+.teacher-generate-certificate-div canvas {
+  width: 400px !important;
+  height: 530px !important;
+  border: 10px solid #ffcf0f !important;
+  margin: 0 auto; }
+
+.closeStyle {
+  color: #5e5e5e;
+  cursor: pointer;
+  font-size: 28px;
+  position: absolute;
+  right: 15px;
+  top: 10px;
+  z-index: 1000;
+  background: black;
+  color: white;
+  border-radius: 5px; }
+
+@media screen and (max-height: 800px) {
+  .teacher-generate-certificate-div canvas {
+    width: 300px !important;
+    height: 390px !important;
+    border: 10px solid #ffcf0f !important;
+    margin: 0 auto; } }
+
+
+/*# sourceMappingURL=59.a2a08165.chunk.css.map*/
